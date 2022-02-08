@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-[#7B879D]
+}
+
+p {
+  @apply text-[#5989C0]
+}

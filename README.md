@@ -17,10 +17,10 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Screenshot
 
 Desktop View
-![](./sc1.jpg)
+![Screenshot](sc1.png)
 
 Mobile View
-![](./sc2.jpg)
+![Screenshot](sc2.png)
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
 

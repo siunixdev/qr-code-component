@@ -37,7 +37,7 @@ Mobile View
 
 ## Author
 
-- Website - [Add your name here](https://www.siunix.com)
-- Twitter - [@yourusername](https://twitter.com/siunixdev)
+- Website - [siunix.com](https://www.siunix.com)
+- Twitter - [@siunixdev](https://twitter.com/siunixdev)
 
 **Note: Delete this note and add/remove/edit lines above based on what links you'd like to share.**
